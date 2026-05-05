@@ -31,3 +31,6 @@
 
 #### Hash-to-E(Fp)
 ![Hash-to-E(Fp)](../img/hash-to-efp.png)
+
+#### Number Theoretic Transform (NTT)
+![NTT](../img/NTT.png)
