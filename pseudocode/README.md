@@ -6,7 +6,7 @@
 
 #### Chinese Remainder Theorem
 
-![chinese remainder theorem](../img/extended-euclidean-algorithm.png)
+![chinese remainder theorem](../img/chinese-remainder-theorem.png)
 
 #### Polynomial Euclidean Algorithm
 
